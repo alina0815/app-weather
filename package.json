@@ -2,7 +2,7 @@
   "name": "your-first-pwapp",
   "version": "2.0.0",
   "description": "Codelab for Your First PWAPP",
-  "homepage": "https://codelabs.developers.google.com/codelabs/your-first-pwapp/",
+  "homepage": "https://alina0815.github.io/app-weather",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
